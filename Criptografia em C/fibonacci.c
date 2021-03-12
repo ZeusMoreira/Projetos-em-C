@@ -24,6 +24,5 @@ int main()
         scanf("%d",&j);
         printf("Fib(%d) = %llu\n",j,fib[j]);
     }
-
     return 0;
 }
